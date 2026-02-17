@@ -9,7 +9,7 @@
 *.bbl
 *.blg
 
-# PDF (optional: remove if you want to track built PDF)
+# PDF (uncomment to stop tracking built PDF)
 # *.pdf
 
 # Python
